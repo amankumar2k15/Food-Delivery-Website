@@ -251,6 +251,10 @@
      border-radius: 10px;
 
  }
+ .btn:hover{
+    color: white;
+    background-color: black;
+ }
 
  h1 {
      text-align: center;
